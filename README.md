@@ -12,3 +12,4 @@ Frontend:
 
 Git
 * Setting up a Git Repo
+* Setting up a SSH Key in GitHub
