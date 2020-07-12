@@ -10,6 +10,9 @@ This main README will include a list of everything in the order that it was done
 Frontend:
 * Setting up Tailwind with Vue CLI.
 
-Git
+Git:
 * Setting up a Git Repo
 * Setting up a SSH Key in GitHub
+
+Algorithms:
+* Quick Sort
