@@ -16,3 +16,4 @@ Git:
 
 Algorithms:
 * Quick Sort
+* Merge Sort
