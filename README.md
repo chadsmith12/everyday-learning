@@ -9,6 +9,7 @@ This main README will include a list of everything in the order that it was done
 ## Goals
 Frontend:
 * Setting up Tailwind with Vue CLI.
+* Vue3 and Vite
 
 Git:
 * Setting up a Git Repo

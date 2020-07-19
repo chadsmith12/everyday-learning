@@ -11,7 +11,7 @@ namespace AlgorithmTesting
 
         private static void MergeSort(IList<int> items,int low, int high)
         {
-            if(high > low)
+            if(high > low) 
             {
                 var middle = (low + high) / 2;
                 MergeSort(items, low, middle);
