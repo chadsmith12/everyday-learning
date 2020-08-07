@@ -14,6 +14,7 @@ Frontend:
 Git:
 * Setting up a Git Repo
 * Setting up a SSH Key in GitHub
+* Rebase vs. Merge
 
 Algorithms:
 * Quick Sort
